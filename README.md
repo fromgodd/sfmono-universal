@@ -1,11 +1,10 @@
-# sfmono-universal
+# SF Mono Universal Installer v0.2
 
-This script automates the installation of nerd-patched SF Mono fonts from the [SF-Mono-Nerd-Font](https://github.com/epk/SF-Mono-Nerd-Font) repository to your Linux system. It also checks if the fonts are already installed before proceeding with the installation.
+This script automates the installation of nerd-patched SF Mono fonts from the [SF-Mono-Nerd-Font](https://github.com/epk/SF-Mono-Nerd-Font) repository to your *NIX system.
 
 ## Usage
 
 1. Clone the repository to your local machine:
-
    ```bash
    git clone https://github.com/fromgodd/sfmono-universal.git
    ```
