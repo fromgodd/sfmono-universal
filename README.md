@@ -1,6 +1,7 @@
-# SF Mono Universal Installer v0.2
+# SF Mono Ligaturized Installer v0.2
 
-This script automates the installation of nerd-patched SF Mono fonts from the [SF-Mono-Nerd-Font](https://github.com/epk/SF-Mono-Nerd-Font) repository to your *NIX system.
+This script automates the installation of nerd-patched SF Mono fonts from the [SF-Mono-Nerd-Font](https://github.com/shaunsingh/SF-Mono-Nerd-Font-Ligaturized) repository to your *NIX system.
+![image](https://github.com/fromgodd/sfmono-universal/assets/97128346/ab3df2af-10b3-412c-9938-5ecedcc8fb29)
 
 ## Usage
 
